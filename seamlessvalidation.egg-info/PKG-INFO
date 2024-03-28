@@ -5,6 +5,7 @@ Summary: A package for easy validation and post deployment monitoring of common 
 Author: ZhuZheng(Iverson) ZHOU
 Author-email: zzho044@aucklanduni.ac.nz
 Keywords: machine learning validation monitoring
+License-File: LICENSE
 Requires-Dist: scikit-learn
 Requires-Dist: pandas
 Requires-Dist: numpy
