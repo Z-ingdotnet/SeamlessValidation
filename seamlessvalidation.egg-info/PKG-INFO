@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: seamlessvalidation
+Version: 0.1
+Summary: A package for easy validation and post deployment monitoring of common linear and non linear ML models and clustering model
+Author: ZhuZheng(Iverson) ZHOU
+Author-email: zzho044@aucklanduni.ac.nz
+Keywords: machine learning validation monitoring
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
