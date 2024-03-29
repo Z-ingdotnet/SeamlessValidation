@@ -1,8 +1,5 @@
-numpy
 scikit-learn
 pandas
-tensorflow
-keras
-pytorch
-spacy
-nltk
+numpy
+matplotlib
+scipy

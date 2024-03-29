@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='seamlessvalidation',
-    version='0.21',
+    version='0.12',
     packages=find_packages(),
     install_requires=[
         # package dependencies below
@@ -13,7 +13,6 @@ setup(
         'pandas',
         'numpy',
         'matplotlib',
-        'pickle',
         'scipy'
         #'tensorflow', 'keras', 'torch', 'spacy', 'nltk'
     ],

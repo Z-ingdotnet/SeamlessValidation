@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: seamlessvalidation
-Version: 0.21
+Version: 0.12
 Summary: A package for easy validation and post deployment monitoring of common linear and non linear ML models and clustering model
 Author: ZhuZheng(Iverson) ZHOU
 Author-email: zzho044@aucklanduni.ac.nz
@@ -11,6 +11,7 @@ Requires-Dist: scikit-learn
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: matplotlib
+Requires-Dist: scipy
 
 # seamlessvalidation
 
@@ -50,10 +51,12 @@ seamlessvalidation(your_model,X=X_class,y=y_class
 Auto selection on validation metrics based on model type and development stage. Easily selection of validation strategy. Flexible intergration comparison method and data drift monitoring
 
 ## Dependencies
-'scikit-learn'
-'pandas'
-'numpy'
-'matplotlib'
+'scikit-learn',
+'pandas',
+'numpy',
+'matplotlib',
+'pickle',
+'scipy'
 
 ## Contributing
 Contributions are welcome! Here's how you can contribute:
