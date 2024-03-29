@@ -33,7 +33,7 @@ seamlessvalidation(your_model,X=X_class,y=y_class
 ```
 
 ## Features
-List of key features and functionalities of your package
+Auto selection on validation metrics based on model type and development stage. Easily selection of validation strategy. Flexible intergration comparison method and data drift monitoring
 
 ## Dependencies
 'scikit-learn'

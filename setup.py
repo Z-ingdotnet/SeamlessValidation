@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='seamlessvalidation',
-    version='0.1',
+    version='0.21',
     packages=find_packages(),
     install_requires=[
         # package dependencies below
