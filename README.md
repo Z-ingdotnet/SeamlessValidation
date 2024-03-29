@@ -36,10 +36,12 @@ seamlessvalidation(your_model,X=X_class,y=y_class
 Auto selection on validation metrics based on model type and development stage. Easily selection of validation strategy. Flexible intergration comparison method and data drift monitoring
 
 ## Dependencies
-'scikit-learn'
-'pandas'
-'numpy'
-'matplotlib'
+'scikit-learn',
+'pandas',
+'numpy',
+'matplotlib',
+'pickle',
+'scipy'
 
 ## Contributing
 Contributions are welcome! Here's how you can contribute:

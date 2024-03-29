@@ -13,6 +13,8 @@ setup(
         'pandas',
         'numpy',
         'matplotlib',
+        'pickle',
+        'scipy'
         #'tensorflow', 'keras', 'torch', 'spacy', 'nltk'
     ],
     author='ZhuZheng(Iverson) ZHOU',
